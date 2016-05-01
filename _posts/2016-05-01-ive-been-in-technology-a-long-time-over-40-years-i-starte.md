@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "I've been in technology a long time, over 40 years! I started my career as a technologist at ANSTO before the internet and PC's existed. Later my consulting career took me to Europe, USA and SE Asia. For the last 15 years I have manage small business IT infrastructure services."
-datePublished: '2016-05-01T03:20:38.647Z'
-dateModified: '2016-05-01T03:17:28.745Z'
+datePublished: '2016-05-01T03:31:28.044Z'
+dateModified: '2016-05-01T03:30:55.379Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-ive-been-in-technology-a-long-time-over-40-years-i-starte.md
@@ -18,8 +19,7 @@ publisher:
   url: null
   favicon: null
 starred: true
-url: ive-been-in-technology-a-long-time-over-40-years-i-starte/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00c3618a-7a03-4a53-90b1-815da60cf3ed.jpg)
@@ -48,4 +48,5 @@ The benefit to you is you will know which are the key elements which need to be 
 
 You can take the measures outlined in the prescription over as long a period as suits your resources. Or you can engage help to deliver on critical key elements. 
 
-To find out if I can help with your technology IT Support- email contact@sheldonmorey.com.au for a free 90 minute consultation.
+To find out if I can help with your technology and IT support-   
+email contact@sheldonmorey.com.au for a free 90 minute consultation.
