@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "I've been in technology a long time, over 40 years! I started my career as a technologist at ANSTO before the internet and PC's existed. Later my consulting career took me to Europe, USA and SE Asia. For the last 15 years I have manage small business IT infrastructure services."
-datePublished: '2016-05-01T03:39:24.852Z'
-dateModified: '2016-05-01T03:38:09.194Z'
+datePublished: '2016-05-01T04:47:41.726Z'
+dateModified: '2016-05-01T03:39:31.581Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-ive-been-in-technology-a-long-time-over-40-years-i-starte.md
@@ -19,7 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: true
-_type: Blurb
+url: sheldon-morey/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00c3618a-7a03-4a53-90b1-815da60cf3ed.jpg)
