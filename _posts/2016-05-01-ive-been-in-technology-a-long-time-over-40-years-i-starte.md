@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I've been in technology a long time, over 40 years! I started my career as a technologist at ANSTO before the internet and PC's existed. Later my consulting career took me to Europe, USA and SE Asia. For the last 15 years I have manage small business IT infrastructure services."
-datePublished: '2016-05-01T03:10:31.470Z'
-dateModified: '2016-05-01T03:08:42.049Z'
+datePublished: '2016-05-01T03:20:38.647Z'
+dateModified: '2016-05-01T03:17:28.745Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-01-ive-been-in-technology-a-long-time-over-40-years-i-starte.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-01-ive-been-in-technology-a-long-time-over-40-years-i-starte.md
-published: true
+starred: true
 url: ive-been-in-technology-a-long-time-over-40-years-i-starte/index.html
 _type: Article
 
@@ -38,7 +38,7 @@ To solve this problem I provide consulting and project management services. I ha
 Too many businesses are struggling with technology that is not a fit for them. I am on a mission to help those businesses become more efficient. I want businesses to experience information technology as an investment with real financial gains. And use systems which will help them grow their business and increase profitability.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17196e5d-1e2b-4163-ab46-b2736d676486.jpg)
 
-At the end of your Information will have a practical model of your business(s). A prescription to make your technology services and systems in step with your business. A defined measure of 7 critical business areas with an IT competitive measure comparison. A set of projects which will improve your IT competitive value.
+At the end of your Information System Development Strategy program you will have a practical model of your business(s). A prescription to make your technology services and systems in step with your business. A defined measure of 7 critical business areas with an IT competitive measure comparison. A set of projects which will improve your IT competitive value.
 
 Your investment of time into this is, a 2 to 3 hour business model workshop for the key business staff. 1 to 2 hours of staff contact to understand how technology works in the business. 
 
