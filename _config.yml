@@ -1,0 +1,28 @@
+name: Sheldon Morey
+favicon: null
+layout_spectrum: 0.6810613959096372
+typography_spectrum: 0.6984559984412044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3456306888256222
+  lightness: 0.8439272437244654
+  saturation: 0.9338578232564032
+  rhythmicContrast: 0.6044484621379524
+purpose: []
