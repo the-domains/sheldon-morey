@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "I've been in technology a long time, over 40 years! I started my career as a technologist at ANSTO before the internet and PC's existed. Later my consulting career took me to Europe, USA and SE Asia. For the last 15 years I have manage small business IT infrastructure services."
-datePublished: '2016-05-01T03:32:21.861Z'
-dateModified: '2016-05-01T03:31:34.001Z'
+datePublished: '2016-05-01T03:36:47.689Z'
+dateModified: '2016-05-01T03:33:17.037Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-ive-been-in-technology-a-long-time-over-40-years-i-starte.md
