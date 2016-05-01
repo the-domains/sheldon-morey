@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sheldon Morey]]></title>
         <description><![CDATA[Sheldon Morey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sheldon-morey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 03:10:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 03:20:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sheldon-morey/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I've been in technology a long time, over 40 years! I started my career as a technologist at ANSTO before the internet and PC's existed. Later my consulting career took me to Europe, USA and SE Asia. For the last 15 years I have manage small business IT infrastructure services.</p>]]></description>
-            <link>undefinedive-been-in-technology-a-long-time-over-40-years-i-starte/index.html</link>
+            <link>https://thegrid.ai/sheldon-morey/ive-been-in-technology-a-long-time-over-40-years-i-starte/index.html</link>
             <guid isPermaLink="false">342571a4-5cc9-4360-81c6-bbd202392066</guid>
-            <pubDate>Sun, 01 May 2016 03:10:31 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 03:20:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
