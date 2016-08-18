@@ -1,7 +1,7 @@
 name: Sheldon Morey
 favicon: null
-layout_spectrum: 0.6810613959096372
-typography_spectrum: 0.6984559984412044
+layout_spectrum: 0.18658480956219137
+typography_spectrum: 0.29105044901371
 title: Sheldon Morey
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#fefefe'
-    - '#005099'
-    - '#4788be'
-    - '#af5c27'
-  brandStrength: 0.1875
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.6044484621379524
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.61329111084342
+  lightness: 0.5410005862358958
+  saturation: 0.40532594453543425
+  rhythmicContrast: 0.05426137917675078
 purpose: []
