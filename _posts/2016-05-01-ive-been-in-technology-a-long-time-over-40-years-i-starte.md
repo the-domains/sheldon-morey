@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T02:51:30.754Z'
+datePublished: '2016-09-01T02:58:46.664Z'
 sourcePath: _posts/2016-05-01-ive-been-in-technology-a-long-time-over-40-years-i-starte.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T02:51:29.921Z'
-title: ''
+dateModified: '2016-09-01T02:58:45.776Z'
+title: About Sheldon
 publisher: {}
 description: >-
   I've been in technology a long time, over 40 years! I started my career as a
@@ -22,6 +22,8 @@ url: sheldon-morey/index.html
 _type: Article
 
 ---
+# About Sheldon
+
 I've been in technology a long time, over 40 years! I started my career as a technologist at ANSTO before the internet and PC's existed. Later my consulting career took me to Europe, USA and SE Asia. For the last 15 years I have manage small business IT infrastructure services.
 
 Understanding technology is complex so small business rely on what they can research. This information is most often inaccurate or not well applied. As a technology professional I can clear up this inconsistency.
@@ -50,3 +52,8 @@ You can take the measures outlined in the prescription over as long a period as 
 
 To find out if I can help with your technology and IT support-   
 email contact@sheldonmorey.com.au for a free 90 minute consultation.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/346fa93e-fb40-4390-956f-3ff1b3a2daf2.jpg)
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" style=""></iframe>
+
+http://smallville.com.au/author/sheldonmorey
